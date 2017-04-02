@@ -1,8 +1,18 @@
-# 新浪微博热门评论采集
+===========================
 
-新浪微博热门评论采集
+****
+###　　　　　　　　　　　　Author:chzeze
+###　　　　　　　　　 E-mail:chzeze@qq.com
+ 
+===========================
 
-定时采集热门微博自动发布热门微博
+#WeixinCrawler
 
-Contract Me：chzeze@qq.com
-Sina weibo: <a href="http://weibo.com/chzeze">澤澤MarioZo</a>
+根据搜狗搜索 关键词采集 微信公众号和相应推文
+
+链接
+------
+###链接外部URL
+|#|语法|效果|
+|---|----|-----
+|1|`[我的博客](http://www.cnblogs.com/zeze "悬停显示")`|[我的博客](http://www.cnblogs.com/zeze "悬停显示")
